@@ -13,14 +13,12 @@ Kaleden Kaçış
 
 ## Ürün Özellikleri
 
-- 
-- 
-- 
+- Karakter caavarların üzerine düşerse onları yok edebilir.
+- Elmaslar sayesinde puan toplayabilirsiniz.
 
 ## Hedef Kitle
 
-- 
-- 
+- Oyun oynamayı seven herkes hedef kitlemiz içerisidedir.
 
 ## Product Backlog URL
 
