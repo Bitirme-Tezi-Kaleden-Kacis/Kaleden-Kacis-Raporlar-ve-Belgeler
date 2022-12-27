@@ -22,7 +22,7 @@ Kaleden Kaçış
 
 ## Product Backlog URL
 
-[Miro Backlog Board]()
+[Miro Backlog Board](https://miro.com/app/board/uXjVP23sXUU=/)
 
 ---
 
