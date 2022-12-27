@@ -34,9 +34,9 @@ Kaleden Kaçış
 - **Backlog düzeni ve Story seçimleri**: 
 - **Daily Scrum**: Daily Scrum toplantılarının herkes için daha kolay olacağından Whatsapp üzerinden yürütlmesine karar verilmiştir. Daily Scrum toplantıları word dosyası olarak ProjectManagement klasörüne eklenmektedir.[Sprint 1 için Daily Scrum Notları]()
 -  **Sprint board update**: Sprint board screenshotları: 
--  ![Backlog 1]()
--  ![Backlog 2]()
--  ![Backlog 3]()
+-  ![Backlog 1](https://github.com/Bitirme-Tezi-Kaleden-Kacis/Kaleden-Kacis-Raporlar-ve-Belgeler/blob/main/ProjectManagement/Sprint1Documents/1.png)
+-  ![Backlog 2](https://github.com/Bitirme-Tezi-Kaleden-Kacis/Kaleden-Kacis-Raporlar-ve-Belgeler/blob/main/ProjectManagement/Sprint1Documents/2.png)
+-  ![Backlog 3](https://github.com/Bitirme-Tezi-Kaleden-Kacis/Kaleden-Kacis-Raporlar-ve-Belgeler/blob/main/ProjectManagement/Sprint1Documents/3.png)
 -  **Ürün Durumu**: Ekran görüntüleri:
 -  ![Screenshot 1]()
 -  ![Screenshot 2]()
