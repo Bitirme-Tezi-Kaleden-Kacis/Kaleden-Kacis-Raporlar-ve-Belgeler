@@ -81,7 +81,6 @@ Sprint Review Katılımcıları:
 - **Sprint Retrospective:**
   - Sprint süresince yapılan tercihler gözden geçirilmiştir.
   - Oyun geliştirme sürecine başlamadan önce eksikler düşünülmüş fakat eksik tespit edilememiştir.
-  - 
  
 - **Diğer Notlar**: 
 Sprint içerisindeki görev dağılımı ekip üyelerinin en iyi olduğu konulara göre yapıldı.
@@ -112,7 +111,6 @@ Sprint Review Katılımcıları:
 - **Sprint Retrospective:**
   - Demo oyun testi yapıldı ve sürecin başarıyla ilerlediği görüldü.
   - Ekip üyeleri demo öncesinde çıkan problemlere rağmen sorunsuz bir şekilde iletişim kurarak sorunu çözdü.
-  - 
  
 - **Diğer Notlar**: 
 Oyunun genel tasarımı ve işleyişi ekip üyeleri tarafından oldukça beğenildi.
@@ -142,7 +140,6 @@ Sprint Review Katılımcıları:
 - **Sprint Retrospective:**
   - Sprint boyunca alınan kararların doğruluğu ve ortaya koyulan ürünün kalitesi değerlendirilmiştir.
   - Ürünün son hali kullanıcılara test ettirilerek geri bildirimler alınmıştır. Geri bildirimler olumlu yönde olduğundan dolayı ürünün hazır olduğuna grupça karar verilmiştir.
-  - 
  
 - **Sprint Sonu**: 
 
