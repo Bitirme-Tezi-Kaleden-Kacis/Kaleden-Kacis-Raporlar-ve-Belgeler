@@ -41,13 +41,20 @@ Kaleden Kaçış
 -  ![Screenshot 1]()
 -  ![Screenshot 2]()
 - **Sprint Review**: 
+Oyunun nasıl bir şey olacağı genel hatlarıyla belirlendi. Bir sonraki sprintle birlikte oyun hatları netleştirilecektir.
+
+Sprint Review Katılımcıları:
+Ahmet Emir DEMİRTAŞ / Product Owner and Developer
+Hurşit ARSLAN / Scrum Master and Developer
+
+
 - **Sprint Retrospective:**
-  - 
-  - 
-  - 
+  - Hafta içi her gün takım üyelerinin yürüttüğü gelişmeleri birbirlerine iletmeleri kararlaştırıldı.
+  - Günlük rapor saatleri belirlendi.
+   
  
 - **Diğer Notlar**: 
-
+Motivasyonumuz yüksek olarak başladık. Oyunun yapım aşamasının başlaması için ekip olarak sabırsızlanıyoruz.
 ---
 
 # Sprint 2
@@ -64,14 +71,20 @@ Kaleden Kaçış
 -  **Ürün Durumu**: Ekran görüntüleri:
 -  ![Screenshot 1]()
 -  ![Screenshot 2]()
-- **Sprint Review**: 
+- **Sprint Review**:
+Oyun tasarımı için gerekli bütün hazırlıklar tamamlandı. Aynı zamanda oyun motorunu da kararlaştırmış bulunmaktayız. Var olan süre içerisinde en iyi verimi alabileceğimiz motoru seçtik. Gelecek sprint ile birlikte oyun yapımına başlayacağız.
+
+Sprint Review Katılımcıları:
+Ahmet Emir DEMİRTAŞ / Product Owner and Developer
+Hurşit ARSLAN / Scrum Master and Developer
+
 - **Sprint Retrospective:**
-  - 
-  - 
+  - Sprint süresince yapılan tercihler gözden geçirilmiştir.
+  - Oyun geliştirme sürecine başlamadan önce eksikler düşünülmüş fakat eksik tespit edilememiştir.
   - 
  
 - **Diğer Notlar**: 
-
+Sprint içerisindeki görev dağılımı ekip üyelerinin en iyi olduğu konulara göre yapıldı.
 ---
 
 # Sprint 3
@@ -88,14 +101,21 @@ Kaleden Kaçış
 -  **Ürün Durumu**: Ekran görüntüleri:
 -  ![Screenshot 1]()
 -  ![Screenshot 2]()
-- **Sprint Review**: 
+- **Sprint Review**:
+Oyun geliştirme sürecine başlandı. Oyun inşasının ana kolonları tamamlanarak genel bir demo oluşturuldu. Bu süreçte ortaya çıkan sorunlar süreci zora soksa bile farklı bir yöntem kullanılarak sorunsuz bir şekilde süreç ilerletildi.
+
+Sprint Review Katılımcıları:
+Ahmet Emir DEMİRTAŞ / Product Owner and Developer
+Hurşit ARSLAN / Scrum Master and Developer
+
+
 - **Sprint Retrospective:**
-  - 
-  - 
+  - Demo oyun testi yapıldı ve sürecin başarıyla ilerlediği görüldü.
+  - Ekip üyeleri demo öncesinde çıkan problemlere rağmen sorunsuz bir şekilde iletişim kurarak sorunu çözdü.
   - 
  
 - **Diğer Notlar**: 
-
+Oyunun genel tasarımı ve işleyişi ekip üyeleri tarafından oldukça beğenildi.
 ---
 
 # Sprint 4
@@ -113,12 +133,18 @@ Kaleden Kaçış
 -  ![Screenshot 1]()
 -  ![Screenshot 2]()
 - **Sprint Review**: 
+Oyun bütün hatlarıyla tamamlanmış olup alınan çıktılarda bir eksik ya da hata görülmemiştir. Github sayfasında gerekli düzenlemeler yapılarak ürün son haline ulaştırılmıştır. Ekip ürünün hazır olduğuna karar vermiştir.
+
+Sprint Review Katılımcıları:
+Ahmet Emir DEMİRTAŞ / Product Owner and Developer
+Hurşit ARSLAN / Scrum Master and Developer
+
 - **Sprint Retrospective:**
-  - 
-  - 
+  - Sprint boyunca alınan kararların doğruluğu ve ortaya koyulan ürünün kalitesi değerlendirilmiştir.
+  - Ürünün son hali kullanıcılara test ettirilerek geri bildirimler alınmıştır. Geri bildirimler olumlu yönde olduğundan dolayı ürünün hazır olduğuna grupça karar verilmiştir.
   - 
  
-- **Diğer Notlar**: 
+- **Sprint Sonu**: 
 
 ---
 
