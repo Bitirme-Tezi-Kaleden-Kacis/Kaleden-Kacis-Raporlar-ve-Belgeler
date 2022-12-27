@@ -44,8 +44,8 @@ Kaleden Kaçış
 Oyunun nasıl bir şey olacağı genel hatlarıyla belirlendi. Bir sonraki sprintle birlikte oyun hatları netleştirilecektir.
 
 Sprint Review Katılımcıları:
-Ahmet Emir DEMİRTAŞ / Product Owner and Developer
-Hurşit ARSLAN / Scrum Master and Developer
+- Ahmet Emir DEMİRTAŞ / Product Owner and Developer
+- Hurşit ARSLAN / Scrum Master and Developer
 
 
 - **Sprint Retrospective:**
@@ -75,8 +75,8 @@ Motivasyonumuz yüksek olarak başladık. Oyunun yapım aşamasının başlamas�
 Oyun tasarımı için gerekli bütün hazırlıklar tamamlandı. Aynı zamanda oyun motorunu da kararlaştırmış bulunmaktayız. Var olan süre içerisinde en iyi verimi alabileceğimiz motoru seçtik. Gelecek sprint ile birlikte oyun yapımına başlayacağız.
 
 Sprint Review Katılımcıları:
-Ahmet Emir DEMİRTAŞ / Product Owner and Developer
-Hurşit ARSLAN / Scrum Master and Developer
+- Ahmet Emir DEMİRTAŞ / Product Owner and Developer
+- Hurşit ARSLAN / Scrum Master and Developer
 
 - **Sprint Retrospective:**
   - Sprint süresince yapılan tercihler gözden geçirilmiştir.
@@ -105,8 +105,8 @@ Sprint içerisindeki görev dağılımı ekip üyelerinin en iyi olduğu konular
 Oyun geliştirme sürecine başlandı. Oyun inşasının ana kolonları tamamlanarak genel bir demo oluşturuldu. Bu süreçte ortaya çıkan sorunlar süreci zora soksa bile farklı bir yöntem kullanılarak sorunsuz bir şekilde süreç ilerletildi.
 
 Sprint Review Katılımcıları:
-Ahmet Emir DEMİRTAŞ / Product Owner and Developer
-Hurşit ARSLAN / Scrum Master and Developer
+- Ahmet Emir DEMİRTAŞ / Product Owner and Developer
+- Hurşit ARSLAN / Scrum Master and Developer
 
 
 - **Sprint Retrospective:**
@@ -136,8 +136,8 @@ Oyunun genel tasarımı ve işleyişi ekip üyeleri tarafından oldukça beğeni
 Oyun bütün hatlarıyla tamamlanmış olup alınan çıktılarda bir eksik ya da hata görülmemiştir. Github sayfasında gerekli düzenlemeler yapılarak ürün son haline ulaştırılmıştır. Ekip ürünün hazır olduğuna karar vermiştir.
 
 Sprint Review Katılımcıları:
-Ahmet Emir DEMİRTAŞ / Product Owner and Developer
-Hurşit ARSLAN / Scrum Master and Developer
+- Ahmet Emir DEMİRTAŞ / Product Owner and Developer
+- Hurşit ARSLAN / Scrum Master and Developer
 
 - **Sprint Retrospective:**
   - Sprint boyunca alınan kararların doğruluğu ve ortaya koyulan ürünün kalitesi değerlendirilmiştir.
