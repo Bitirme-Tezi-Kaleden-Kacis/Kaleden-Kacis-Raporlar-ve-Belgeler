@@ -42,21 +42,33 @@ Kaleden Kaçış
 -  ![Screenshot 1](https://github.com/Bitirme-Tezi-Kaleden-Kacis/Kaleden-Kacis-Raporlar-ve-Belgeler/blob/main/ProjectManagement/Sprint1Documents/Sprint1ss1.png)
 -  ![Screenshot 2](https://github.com/Bitirme-Tezi-Kaleden-Kacis/Kaleden-Kacis-Raporlar-ve-Belgeler/blob/main/ProjectManagement/Sprint1Documents/Sprint1ss2.png)
 -  ![Screenshot 3](https://github.com/Bitirme-Tezi-Kaleden-Kacis/Kaleden-Kacis-Raporlar-ve-Belgeler/blob/main/ProjectManagement/Sprint1Documents/Sprint1ss3%20.png)
+-  
 - **Sprint Review**: 
-Oyunun nasıl bir şey olacağı genel hatlarıyla belirlendi. Bir sonraki sprintle birlikte oyun hatları netleştirilecektir.
+  - Sprint Review Katılımcıları:
+  - Ahmet Emir DEMİRTAŞ / Product Owner and Developer
+  - Hurşit ARSLAN / Scrum Master and Developer
 
-Sprint Review Katılımcıları:
-- Ahmet Emir DEMİRTAŞ / Product Owner and Developer
-- Hurşit ARSLAN / Scrum Master and Developer
+- **Neleri yaptık**:
+  - Oyun motoru seçildi.
+  - Oyun tasarımı belirlendi.
+  - Giriş ekranı tasarımı yapıldı.
 
+- **Sırada nereler var**:
+  - Karakter tasarımı
+  - Karakter yön konfigrasyonu
 
 - **Sprint Retrospective:**
   - Hafta içi her gün takım üyelerinin yürüttüğü gelişmeleri birbirlerine iletmeleri kararlaştırıldı.
   - Günlük rapor saatleri belirlendi.
-   
+- **Süreç içerisinde neler iyi gitti.**
+  - Oyun motoru seçimi sırasında hızlı karara varıldı.
+  - Tasarımlar beklenildiği gibi hazırlandı.
+ - **Süreç içerisinde neler kötü gitti.**
+  - Sprint esnası boyunca herhangi bir sorun yaşanmadı.
+
  
-- **Diğer Notlar**: 
-Motivasyonumuz yüksek olarak başladık. Oyunun yapım aşamasının başlaması için ekip olarak sabırsızlanıyoruz.
+ - **Diğer Notlar**: 
+  - Motivasyonumuz yüksek olarak başladık. Bir an önce elle tutulur bir ürün ortaya koymak için sabırsızlanıyoruz.
 ---
 
 # Sprint 2
@@ -74,19 +86,31 @@ Motivasyonumuz yüksek olarak başladık. Oyunun yapım aşamasının başlamas�
 -  ![Screenshot 1](https://github.com/Bitirme-Tezi-Kaleden-Kacis/Kaleden-Kacis-Raporlar-ve-Belgeler/blob/main/ProjectManagement/Sprint2Documents/Sprint2ss1.png)
 -  ![Screenshot 2](https://github.com/Bitirme-Tezi-Kaleden-Kacis/Kaleden-Kacis-Raporlar-ve-Belgeler/blob/main/ProjectManagement/Sprint2Documents/Sprint2ss2.png)
 -  ![Screenshot 3](https://github.com/Bitirme-Tezi-Kaleden-Kacis/Kaleden-Kacis-Raporlar-ve-Belgeler/blob/main/ProjectManagement/Sprint2Documents/Sprit2ss3%20.png)
-- **Sprint Review**:
-Oyun tasarımı için gerekli bütün hazırlıklar tamamlandı. Aynı zamanda oyun motorunu da kararlaştırmış bulunmaktayız. Var olan süre içerisinde en iyi verimi alabileceğimiz motoru seçtik. Gelecek sprint ile birlikte oyun yapımına başlayacağız.
+-  
+- **Sprint Review**: 
+  - Sprint Review Katılımcıları:
+  - Ahmet Emir DEMİRTAŞ / Product Owner and Developer
+  - Hurşit ARSLAN / Scrum Master and Developer
 
-Sprint Review Katılımcıları:
-- Ahmet Emir DEMİRTAŞ / Product Owner and Developer
-- Hurşit ARSLAN / Scrum Master and Developer
+- **Neleri yaptık**:
+  - Karakter tasarımı ve yön konfigürasyonu
+  - Düşman tasarımı ve yön konfigürasyonu
+
+- **Sırada nereler var**:
+  - Engel tasarım ve konfigürasyonu
+  - Map tasarımı ve duvar konfigürasyonu
 
 - **Sprint Retrospective:**
-  - Sprint süresince yapılan tercihler gözden geçirilmiştir.
-  - Oyun geliştirme sürecine başlamadan önce eksikler düşünülmüş fakat eksik tespit edilememiştir.
+  - Gelecek sprint için ön tartışma yapıldı.
+- **Süreç içerisinde neler iyi gitti.**
+  - Tasarımlar bütünlüğünü koruyacak şekilde tutuldu.
+  - Konfigürasyonlar sorunsuz halledildi.
+ - **Süreç içerisinde neler kötü gitti.**
+  - Ekip üyelerinden bir developer kısa süreliğine rahatsızlandığı için geçici olarak görev dağılımında değişiklik yaşandı.
+
  
-- **Diğer Notlar**: 
-Sprint içerisindeki görev dağılımı ekip üyelerinin en iyi olduğu konulara göre yapıldı.
+ - **Diğer Notlar**: 
+  - Kısa süreli bir aksaklık olsa da sprint içerisindeki görevler tamamlandı.
 ---
 
 # Sprint 3
@@ -104,20 +128,32 @@ Sprint içerisindeki görev dağılımı ekip üyelerinin en iyi olduğu konular
 -  ![Screenshot 1](https://github.com/Bitirme-Tezi-Kaleden-Kacis/Kaleden-Kacis-Raporlar-ve-Belgeler/blob/main/ProjectManagement/Sprint3Documents/sprint3ss1.png)
 -  ![Screenshot 2](https://github.com/Bitirme-Tezi-Kaleden-Kacis/Kaleden-Kacis-Raporlar-ve-Belgeler/blob/main/ProjectManagement/Sprint3Documents/Sprint3ss2%20.png)
 -  ![Screenshot 3](https://github.com/Bitirme-Tezi-Kaleden-Kacis/Kaleden-Kacis-Raporlar-ve-Belgeler/blob/main/ProjectManagement/Sprint3Documents/sprint3ss3.png)
-- **Sprint Review**:
-Oyun geliştirme sürecine başlandı. Oyun inşasının ana kolonları tamamlanarak genel bir demo oluşturuldu. Bu süreçte ortaya çıkan sorunlar süreci zora soksa bile farklı bir yöntem kullanılarak sorunsuz bir şekilde süreç ilerletildi.
+-  
+- **Sprint Review**: 
+  - Sprint Review Katılımcıları:
+  - Ahmet Emir DEMİRTAŞ / Product Owner and Developer
+  - Hurşit ARSLAN / Scrum Master and Developer
 
-Sprint Review Katılımcıları:
-- Ahmet Emir DEMİRTAŞ / Product Owner and Developer
-- Hurşit ARSLAN / Scrum Master and Developer
+- **Neleri yaptık**:
+  - Engel tasarımı ve oyun içi konfigürasyonu
+  - Map tasarımı ve konfigürasyonu
 
+- **Sırada nereler var**:
+  - Checkpoint tasarımı ve konfigürasyonu
+  - Elmas tasarımı ve konfigürasyonu
+  - Puan sistemi entegrastonu
 
 - **Sprint Retrospective:**
-  - Demo oyun testi yapıldı ve sürecin başarıyla ilerlediği görüldü.
-  - Ekip üyeleri demo öncesinde çıkan problemlere rağmen sorunsuz bir şekilde iletişim kurarak sorunu çözdü.
+  - Bitirmeye yaklaşıldığı için demo çıktı alınarak deneme yapıldı.
+- **Süreç içerisinde neler iyi gitti.**
+  - Map tasarımı istenildiği gibi yapıldı.
+  - Engeller oyuna eklendi.
+ - **Süreç içerisinde neler kötü gitti.**
+  - Map konfigürasyonu esnasında sorun yaşandı. Farklı bir yöntem kullanılarak sorun giderildi.
+
  
-- **Diğer Notlar**: 
-Oyunun genel tasarımı ve işleyişi ekip üyeleri tarafından oldukça beğenildi.
+ - **Diğer Notlar**: 
+  - Map konfigürasyonu esnasında ortaya çıkan sorun anlık motivaston kaybına neden olsa da sorun çözüldüğü için ekipçe sevindik.
 ---
 
 # Sprint 4
@@ -134,16 +170,29 @@ Oyunun genel tasarımı ve işleyişi ekip üyeleri tarafından oldukça beğeni
 -  **Ürün Durumu**: Ekran görüntüleri:
 -  ![Screenshot 1](https://github.com/Bitirme-Tezi-Kaleden-Kacis/Kaleden-Kacis-Raporlar-ve-Belgeler/blob/main/ProjectManagement/Sprint4Documents/Sprint4ss1.png)
 -  ![Screenshot 2](https://github.com/Bitirme-Tezi-Kaleden-Kacis/Kaleden-Kacis-Raporlar-ve-Belgeler/blob/main/ProjectManagement/Sprint4Documents/Sprint4ss2.png)
+-  
 - **Sprint Review**: 
-Oyun bütün hatlarıyla tamamlanmış olup alınan çıktılarda bir eksik ya da hata görülmemiştir. Github sayfasında gerekli düzenlemeler yapılarak ürün son haline ulaştırılmıştır. Ekip ürünün hazır olduğuna karar vermiştir.
+  - Sprint Review Katılımcıları:
+  - Ahmet Emir DEMİRTAŞ / Product Owner and Developer
+  - Hurşit ARSLAN / Scrum Master and Developer
 
-Sprint Review Katılımcıları:
-- Ahmet Emir DEMİRTAŞ / Product Owner and Developer
-- Hurşit ARSLAN / Scrum Master and Developer
+- **Neleri yaptık**:
+  - Checkpoint tasarımı ve konfigürasyonu
+  - Elmas tasarımı ve konfigürasyonu
+  - Puan sistemi entegrastonu
+
+- **Sırada nereler var**:
+  - Sprint sonuna gelindiğinden ve herhangi bir aksama olmadığından dolayı sırada herhangi bir görev kalmadı.
 
 - **Sprint Retrospective:**
-  - Sprint boyunca alınan kararların doğruluğu ve ortaya koyulan ürünün kalitesi değerlendirilmiştir.
-  - Ürünün son hali kullanıcılara test ettirilerek geri bildirimler alınmıştır. Geri bildirimler olumlu yönde olduğundan dolayı ürünün hazır olduğuna grupça karar verilmiştir.
+  - Oyun Çıktısı alındı.
+  - Çıktı kullanıcılara test ettirildi ve olumlu geri dönüş alındı.
+  - Ekip olarak projeyi başarıyla bitirdik.
+- **Süreç içerisinde neler iyi gitti.**
+  - Son kontroller tamamlandı ve sorun yaşanmadığı görüldü.
+  - Çıktı sorunsuz bir şekilde alındı.
+ - **Süreç içerisinde neler kötü gitti.**
+  - Herhangi bir sorun yaşanmadı.
  
 # Sprint Sonu
 
