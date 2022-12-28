@@ -42,7 +42,7 @@ Kaleden Kaçış
 -  ![Screenshot 1](https://github.com/Bitirme-Tezi-Kaleden-Kacis/Kaleden-Kacis-Raporlar-ve-Belgeler/blob/main/ProjectManagement/Sprint1Documents/Sprint1ss1.png)
 -  ![Screenshot 2](https://github.com/Bitirme-Tezi-Kaleden-Kacis/Kaleden-Kacis-Raporlar-ve-Belgeler/blob/main/ProjectManagement/Sprint1Documents/Sprint1ss2.png)
 -  ![Screenshot 3](https://github.com/Bitirme-Tezi-Kaleden-Kacis/Kaleden-Kacis-Raporlar-ve-Belgeler/blob/main/ProjectManagement/Sprint1Documents/Sprint1ss3%20.png)
--  
+  
 - **Sprint Review**: 
   - Sprint Review Katılımcıları:
   - Ahmet Emir DEMİRTAŞ / Product Owner and Developer
@@ -86,7 +86,7 @@ Kaleden Kaçış
 -  ![Screenshot 1](https://github.com/Bitirme-Tezi-Kaleden-Kacis/Kaleden-Kacis-Raporlar-ve-Belgeler/blob/main/ProjectManagement/Sprint2Documents/Sprint2ss1.png)
 -  ![Screenshot 2](https://github.com/Bitirme-Tezi-Kaleden-Kacis/Kaleden-Kacis-Raporlar-ve-Belgeler/blob/main/ProjectManagement/Sprint2Documents/Sprint2ss2.png)
 -  ![Screenshot 3](https://github.com/Bitirme-Tezi-Kaleden-Kacis/Kaleden-Kacis-Raporlar-ve-Belgeler/blob/main/ProjectManagement/Sprint2Documents/Sprit2ss3%20.png)
--  
+  
 - **Sprint Review**: 
   - Sprint Review Katılımcıları:
   - Ahmet Emir DEMİRTAŞ / Product Owner and Developer
@@ -128,7 +128,7 @@ Kaleden Kaçış
 -  ![Screenshot 1](https://github.com/Bitirme-Tezi-Kaleden-Kacis/Kaleden-Kacis-Raporlar-ve-Belgeler/blob/main/ProjectManagement/Sprint3Documents/sprint3ss1.png)
 -  ![Screenshot 2](https://github.com/Bitirme-Tezi-Kaleden-Kacis/Kaleden-Kacis-Raporlar-ve-Belgeler/blob/main/ProjectManagement/Sprint3Documents/Sprint3ss2%20.png)
 -  ![Screenshot 3](https://github.com/Bitirme-Tezi-Kaleden-Kacis/Kaleden-Kacis-Raporlar-ve-Belgeler/blob/main/ProjectManagement/Sprint3Documents/sprint3ss3.png)
--  
+  
 - **Sprint Review**: 
   - Sprint Review Katılımcıları:
   - Ahmet Emir DEMİRTAŞ / Product Owner and Developer
@@ -170,7 +170,7 @@ Kaleden Kaçış
 -  **Ürün Durumu**: Ekran görüntüleri:
 -  ![Screenshot 1](https://github.com/Bitirme-Tezi-Kaleden-Kacis/Kaleden-Kacis-Raporlar-ve-Belgeler/blob/main/ProjectManagement/Sprint4Documents/Sprint4ss1.png)
 -  ![Screenshot 2](https://github.com/Bitirme-Tezi-Kaleden-Kacis/Kaleden-Kacis-Raporlar-ve-Belgeler/blob/main/ProjectManagement/Sprint4Documents/Sprint4ss2.png)
--  
+  
 - **Sprint Review**: 
   - Sprint Review Katılımcıları:
   - Ahmet Emir DEMİRTAŞ / Product Owner and Developer
