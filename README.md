@@ -145,6 +145,6 @@ Sprint Review Katılımcıları:
   - Sprint boyunca alınan kararların doğruluğu ve ortaya koyulan ürünün kalitesi değerlendirilmiştir.
   - Ürünün son hali kullanıcılara test ettirilerek geri bildirimler alınmıştır. Geri bildirimler olumlu yönde olduğundan dolayı ürünün hazır olduğuna grupça karar verilmiştir.
  
-- **Sprint Sonu** 
+# Sprint Sonu
 
 
