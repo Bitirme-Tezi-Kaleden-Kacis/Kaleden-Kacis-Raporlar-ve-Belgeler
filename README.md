@@ -13,8 +13,9 @@ Kaleden Kaçış
 
 ## Ürün Özellikleri
 
-- Karakter caavarların üzerine düşerse onları yok edebilir.
+- Karakter canavarların üzerine düşerse onları yok edebilir.
 - Elmaslar sayesinde puan toplayabilirsiniz.
+- Checkpontler sayesinde her öldüğünüzde en baştan başlamazsınız.
 
 ## Hedef Kitle
 
