@@ -33,7 +33,7 @@ Kaleden Kaçış
 - **Sprint içinde tamamlanması tahmin edilen puan**: 20 
 - **Puan tamamlama mantığı**: Puanlama mantığı kullanıcı hikayelerinin tamamlanması üzerine kurulmuştur. Kullanıcı hikayelerini tamamlama ölçeği de görevlerle belirlenmiştir.
 - **Backlog düzeni ve Story seçimleri**:Backlog düzeni projede öncelikli olarak nelerin yapılması gerekiyorsa ona göre belirlenmiştir. Storyler proje ilerlerken karşılaşılabilecek durumlardan türetilmiştir.
-- **Daily Scrum**: Daily Scrum toplantılarının herkes için daha kolay olacağından Telegram üzerinden yürütlmesine karar verilmiştir. Daily Scrum toplantıları word dosyası olarak ProjectManagement klasörüne eklenmektedir.[Sprint 1 için Daily Scrum Notları](https://github.com/Bitirme-Tezi-Kaleden-Kacis/Kaleden-Kacis-Raporlar-ve-Belgeler/blob/main/ProjectManagement/Sprint1Documents/DailyScrumMeetingNotesSprint1.docx)
+- **Daily Scrum**: Daily Scrum toplantılarının herkes için daha kolay olacağından Telegram üzerinden yürütlmesine karar verilmiştir. Daily Scrum toplantıları word dosyası olarak ProjectManagement klasörüne eklenmektedir.[Sprint 1 için Daily Scrum Notları](https://github.com/Bitirme-Tezi-Kaleden-Kacis/Kaleden-Kacis-Raporlar-ve-Belgeler/blob/main/ProjectManagement/Sprint1Documents/Daily_Scrum_Meeting_Notes_Sprint_1.docx)
 -  **Sprint board update**: Sprint board screenshotları: 
 -  ![Backlog 1](https://github.com/Bitirme-Tezi-Kaleden-Kacis/Kaleden-Kacis-Raporlar-ve-Belgeler/blob/main/ProjectManagement/Sprint1Documents/1.png)
 -  ![Backlog 2](https://github.com/Bitirme-Tezi-Kaleden-Kacis/Kaleden-Kacis-Raporlar-ve-Belgeler/blob/main/ProjectManagement/Sprint1Documents/2.png)
@@ -77,7 +77,7 @@ Kaleden Kaçış
 - **Sprint içinde tamamlanması tahmin edilen puan**: 20 
 - **Puan tamamlama mantığı**: Puanlama mantığı kullanıcı hikayelerinin tamamlanması üzerine kurulmuştur. Kullanıcı hikayelerini tamamlama ölçeği de görevlerle belirlenmiştir.
 - **Backlog düzeni ve Story seçimleri**:Backlog düzeni projede öncelikli olarak nelerin yapılması gerekiyorsa ona göre belirlenmiştir. Storyler proje ilerlerken karşılaşılabilecek durumlardan türetilmiştir.
-- **Daily Scrum**: Daily Scrum toplantılarının herkes için daha kolay olacağından Telegram üzerinden yürütlmesine karar verilmiştir. Daily Scrum toplantıları word dosyası olarak ProjectManagement klasörüne eklenmektedir.[Sprint 2 için Daily Scrum Notları](https://github.com/Bitirme-Tezi-Kaleden-Kacis/Kaleden-Kacis-Raporlar-ve-Belgeler/blob/main/ProjectManagement/Sprint2Documents/DailyScrumMeetingNotesSprint2.docx)
+- **Daily Scrum**: Daily Scrum toplantılarının herkes için daha kolay olacağından Telegram üzerinden yürütlmesine karar verilmiştir. Daily Scrum toplantıları word dosyası olarak ProjectManagement klasörüne eklenmektedir.[Sprint 2 için Daily Scrum Notları](https://github.com/Bitirme-Tezi-Kaleden-Kacis/Kaleden-Kacis-Raporlar-ve-Belgeler/blob/main/ProjectManagement/Sprint2Documents/Daily_Scrum_Meeting_Notes_Sprint_2.docx)
 -  **Sprint board update**: Sprint board screenshotları: 
 -  ![Backlog 1](https://github.com/Bitirme-Tezi-Kaleden-Kacis/Kaleden-Kacis-Raporlar-ve-Belgeler/blob/main/ProjectManagement/Sprint2Documents/1.png)
 -  ![Backlog 2](https://github.com/Bitirme-Tezi-Kaleden-Kacis/Kaleden-Kacis-Raporlar-ve-Belgeler/blob/main/ProjectManagement/Sprint2Documents/2.png)
@@ -119,7 +119,7 @@ Kaleden Kaçış
 - **Sprint içinde tamamlanması tahmin edilen puan**: 40 
 - **Puan tamamlama mantığı**: Puanlama mantığı kullanıcı hikayelerinin tamamlanması üzerine kurulmuştur. Kullanıcı hikayelerini tamamlama ölçeği de görevlerle belirlenmiştir.
 - **Backlog düzeni ve Story seçimleri**:Backlog düzeni projede öncelikli olarak nelerin yapılması gerekiyorsa ona göre belirlenmiştir. Storyler proje ilerlerken karşılaşılabilecek durumlardan türetilmiştir.
-- **Daily Scrum**: Daily Scrum toplantılarının herkes için daha kolay olacağından Telegram üzerinden yürütlmesine karar verilmiştir. Daily Scrum toplantıları word dosyası olarak ProjectManagement klasörüne eklenmektedir.[Sprint 3 için Daily Scrum Notları](https://github.com/Bitirme-Tezi-Kaleden-Kacis/Kaleden-Kacis-Raporlar-ve-Belgeler/blob/main/ProjectManagement/Sprint3Documents/DailyScrumMeetingNotesSprint3.docx)
+- **Daily Scrum**: Daily Scrum toplantılarının herkes için daha kolay olacağından Telegram üzerinden yürütlmesine karar verilmiştir. Daily Scrum toplantıları word dosyası olarak ProjectManagement klasörüne eklenmektedir.[Sprint 3 için Daily Scrum Notları](https://github.com/Bitirme-Tezi-Kaleden-Kacis/Kaleden-Kacis-Raporlar-ve-Belgeler/blob/main/ProjectManagement/Sprint3Documents/Daily_Scrum_Meeting_Notes_Sprint_3.docx)
 -  **Sprint board update**: Sprint board screenshotları: 
 -  ![Backlog 1](https://github.com/Bitirme-Tezi-Kaleden-Kacis/Kaleden-Kacis-Raporlar-ve-Belgeler/blob/main/ProjectManagement/Sprint3Documents/1.png)
 -  ![Backlog 2](https://github.com/Bitirme-Tezi-Kaleden-Kacis/Kaleden-Kacis-Raporlar-ve-Belgeler/blob/main/ProjectManagement/Sprint3Documents/2.png)
@@ -162,7 +162,7 @@ Kaleden Kaçış
 - **Sprint içinde tamamlanması tahmin edilen puan**: 20 
 - **Puan tamamlama mantığı**: Puanlama mantığı kullanıcı hikayelerinin tamamlanması üzerine kurulmuştur. Kullanıcı hikayelerini tamamlama ölçeği de görevlerle belirlenmiştir.
 - **Backlog düzeni ve Story seçimleri**:Backlog düzeni projede öncelikli olarak nelerin yapılması gerekiyorsa ona göre belirlenmiştir. Storyler proje ilerlerken karşılaşılabilecek durumlardan türetilmiştir.
-- **Daily Scrum**: Daily Scrum toplantılarının herkes için daha kolay olacağından Telegram üzerinden yürütlmesine karar verilmiştir. Daily Scrum toplantıları word dosyası olarak ProjectManagement klasörüne eklenmektedir.[Sprint 4 için Daily Scrum Notları](https://github.com/Bitirme-Tezi-Kaleden-Kacis/Kaleden-Kacis-Raporlar-ve-Belgeler/blob/main/ProjectManagement/Sprint4Documents/DailyScrumMeetingNotesSprint4.docx)
+- **Daily Scrum**: Daily Scrum toplantılarının herkes için daha kolay olacağından Telegram üzerinden yürütlmesine karar verilmiştir. Daily Scrum toplantıları word dosyası olarak ProjectManagement klasörüne eklenmektedir.[Sprint 4 için Daily Scrum Notları](https://github.com/Bitirme-Tezi-Kaleden-Kacis/Kaleden-Kacis-Raporlar-ve-Belgeler/blob/main/ProjectManagement/Sprint4Documents/Daily_Scrum_Meeting_Notes_Sprint_4.docx)
 -  **Sprint board update**: Sprint board screenshotları: 
 -  ![Backlog 1](https://github.com/Bitirme-Tezi-Kaleden-Kacis/Kaleden-Kacis-Raporlar-ve-Belgeler/blob/main/ProjectManagement/Sprint4Documents/1.png)
 -  ![Backlog 2](https://github.com/Bitirme-Tezi-Kaleden-Kacis/Kaleden-Kacis-Raporlar-ve-Belgeler/blob/main/ProjectManagement/Sprint4Documents/2.png)
