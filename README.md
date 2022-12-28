@@ -63,7 +63,7 @@ Kaleden Kaçış
 - **Süreç içerisinde neler iyi gitti.**
   - Oyun motoru seçimi sırasında hızlı karara varıldı.
   - Tasarımlar beklenildiği gibi hazırlandı.
- - **Süreç içerisinde neler kötü gitti.**
+- **Süreç içerisinde neler kötü gitti.**
   - Sprint esnası boyunca herhangi bir sorun yaşanmadı.
 
  
@@ -105,7 +105,7 @@ Kaleden Kaçış
 - **Süreç içerisinde neler iyi gitti.**
   - Tasarımlar bütünlüğünü koruyacak şekilde tutuldu.
   - Konfigürasyonlar sorunsuz halledildi.
- - **Süreç içerisinde neler kötü gitti.**
+- **Süreç içerisinde neler kötü gitti.**
   - Ekip üyelerinden bir developer kısa süreliğine rahatsızlandığı için geçici olarak görev dağılımında değişiklik yaşandı.
 
  
@@ -148,7 +148,7 @@ Kaleden Kaçış
 - **Süreç içerisinde neler iyi gitti.**
   - Map tasarımı istenildiği gibi yapıldı.
   - Engeller oyuna eklendi.
- - **Süreç içerisinde neler kötü gitti.**
+- **Süreç içerisinde neler kötü gitti.**
   - Map konfigürasyonu esnasında sorun yaşandı. Farklı bir yöntem kullanılarak sorun giderildi.
 
  
@@ -191,7 +191,7 @@ Kaleden Kaçış
 - **Süreç içerisinde neler iyi gitti.**
   - Son kontroller tamamlandı ve sorun yaşanmadığı görüldü.
   - Çıktı sorunsuz bir şekilde alındı.
- - **Süreç içerisinde neler kötü gitti.**
+- **Süreç içerisinde neler kötü gitti.**
   - Herhangi bir sorun yaşanmadı.
  
 # Sprint Sonu
