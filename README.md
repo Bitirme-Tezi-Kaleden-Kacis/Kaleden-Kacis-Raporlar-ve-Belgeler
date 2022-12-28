@@ -38,8 +38,9 @@ Kaleden Kaçış
 -  ![Backlog 2](https://github.com/Bitirme-Tezi-Kaleden-Kacis/Kaleden-Kacis-Raporlar-ve-Belgeler/blob/main/ProjectManagement/Sprint1Documents/2.png)
 -  ![Backlog 3](https://github.com/Bitirme-Tezi-Kaleden-Kacis/Kaleden-Kacis-Raporlar-ve-Belgeler/blob/main/ProjectManagement/Sprint1Documents/3.png)
 -  **Ürün Durumu**: Ekran görüntüleri:
--  ![Screenshot 1]()
--  ![Screenshot 2]()
+-  ![Screenshot 1](https://github.com/Bitirme-Tezi-Kaleden-Kacis/Kaleden-Kacis-Raporlar-ve-Belgeler/blob/main/ProjectManagement/Sprint1Documents/Sprint1ss1.png)
+-  ![Screenshot 2](https://github.com/Bitirme-Tezi-Kaleden-Kacis/Kaleden-Kacis-Raporlar-ve-Belgeler/blob/main/ProjectManagement/Sprint1Documents/Sprint1ss2.png)
+-  ![Screenshot 3](https://github.com/Bitirme-Tezi-Kaleden-Kacis/Kaleden-Kacis-Raporlar-ve-Belgeler/blob/main/ProjectManagement/Sprint1Documents/Sprint1ss3%20.png)
 - **Sprint Review**: 
 Oyunun nasıl bir şey olacağı genel hatlarıyla belirlendi. Bir sonraki sprintle birlikte oyun hatları netleştirilecektir.
 
@@ -69,8 +70,9 @@ Motivasyonumuz yüksek olarak başladık. Oyunun yapım aşamasının başlamas�
 -  ![Backlog 2](https://github.com/Bitirme-Tezi-Kaleden-Kacis/Kaleden-Kacis-Raporlar-ve-Belgeler/blob/main/ProjectManagement/Sprint2Documents/2.png)
 -  ![Backlog 3](https://github.com/Bitirme-Tezi-Kaleden-Kacis/Kaleden-Kacis-Raporlar-ve-Belgeler/blob/main/ProjectManagement/Sprint2Documents/3.png)
 -  **Ürün Durumu**: Ekran görüntüleri:
--  ![Screenshot 1]()
--  ![Screenshot 2]()
+-  ![Screenshot 1](https://github.com/Bitirme-Tezi-Kaleden-Kacis/Kaleden-Kacis-Raporlar-ve-Belgeler/blob/main/ProjectManagement/Sprint2Documents/Sprint2ss1.png)
+-  ![Screenshot 2](https://github.com/Bitirme-Tezi-Kaleden-Kacis/Kaleden-Kacis-Raporlar-ve-Belgeler/blob/main/ProjectManagement/Sprint2Documents/Sprint2ss2.png)
+-  ![Screenshot 3](https://github.com/Bitirme-Tezi-Kaleden-Kacis/Kaleden-Kacis-Raporlar-ve-Belgeler/blob/main/ProjectManagement/Sprint2Documents/Sprint2ss3.png)
 - **Sprint Review**:
 Oyun tasarımı için gerekli bütün hazırlıklar tamamlandı. Aynı zamanda oyun motorunu da kararlaştırmış bulunmaktayız. Var olan süre içerisinde en iyi verimi alabileceğimiz motoru seçtik. Gelecek sprint ile birlikte oyun yapımına başlayacağız.
 
@@ -98,8 +100,9 @@ Sprint içerisindeki görev dağılımı ekip üyelerinin en iyi olduğu konular
 -  ![Backlog 2](https://github.com/Bitirme-Tezi-Kaleden-Kacis/Kaleden-Kacis-Raporlar-ve-Belgeler/blob/main/ProjectManagement/Sprint3Documents/2.png)
 -  ![Backlog 3](https://github.com/Bitirme-Tezi-Kaleden-Kacis/Kaleden-Kacis-Raporlar-ve-Belgeler/blob/main/ProjectManagement/Sprint3Documents/3.png)
 -  **Ürün Durumu**: Ekran görüntüleri:
--  ![Screenshot 1]()
--  ![Screenshot 2]()
+-  ![Screenshot 1](https://github.com/Bitirme-Tezi-Kaleden-Kacis/Kaleden-Kacis-Raporlar-ve-Belgeler/blob/main/ProjectManagement/Sprint3Documents/sprint3ss1.png)
+-  ![Screenshot 2](https://github.com/Bitirme-Tezi-Kaleden-Kacis/Kaleden-Kacis-Raporlar-ve-Belgeler/blob/main/ProjectManagement/Sprint3Documents/sprint3ss2.png)
+-  ![Screenshot 3](https://github.com/Bitirme-Tezi-Kaleden-Kacis/Kaleden-Kacis-Raporlar-ve-Belgeler/blob/main/ProjectManagement/Sprint3Documents/sprint3ss2.png)
 - **Sprint Review**:
 Oyun geliştirme sürecine başlandı. Oyun inşasının ana kolonları tamamlanarak genel bir demo oluşturuldu. Bu süreçte ortaya çıkan sorunlar süreci zora soksa bile farklı bir yöntem kullanılarak sorunsuz bir şekilde süreç ilerletildi.
 
@@ -128,8 +131,8 @@ Oyunun genel tasarımı ve işleyişi ekip üyeleri tarafından oldukça beğeni
 -  ![Backlog 2](https://github.com/Bitirme-Tezi-Kaleden-Kacis/Kaleden-Kacis-Raporlar-ve-Belgeler/blob/main/ProjectManagement/Sprint4Documents/2.png)
 -  ![Backlog 3](https://github.com/Bitirme-Tezi-Kaleden-Kacis/Kaleden-Kacis-Raporlar-ve-Belgeler/blob/main/ProjectManagement/Sprint4Documents/3.png)
 -  **Ürün Durumu**: Ekran görüntüleri:
--  ![Screenshot 1]()
--  ![Screenshot 2]()
+-  ![Screenshot 1](https://github.com/Bitirme-Tezi-Kaleden-Kacis/Kaleden-Kacis-Raporlar-ve-Belgeler/blob/main/ProjectManagement/Sprint4Documents/Sprint4ss1.png)
+-  ![Screenshot 2](https://github.com/Bitirme-Tezi-Kaleden-Kacis/Kaleden-Kacis-Raporlar-ve-Belgeler/blob/main/ProjectManagement/Sprint4Documents/Sprint4ss2.png)
 - **Sprint Review**: 
 Oyun bütün hatlarıyla tamamlanmış olup alınan çıktılarda bir eksik ya da hata görülmemiştir. Github sayfasında gerekli düzenlemeler yapılarak ürün son haline ulaştırılmıştır. Ekip ürünün hazır olduğuna karar vermiştir.
 
@@ -141,7 +144,6 @@ Sprint Review Katılımcıları:
   - Sprint boyunca alınan kararların doğruluğu ve ortaya koyulan ürünün kalitesi değerlendirilmiştir.
   - Ürünün son hali kullanıcılara test ettirilerek geri bildirimler alınmıştır. Geri bildirimler olumlu yönde olduğundan dolayı ürünün hazır olduğuna grupça karar verilmiştir.
  
-- **Sprint Sonu**: 
+- **Sprint Sonu** 
 
----
 
